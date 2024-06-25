@@ -1,0 +1,7 @@
+C:\Users\Orange\source\repos\task25-06\task25-06\bin\Debug\task25-06.exe.config
+C:\Users\Orange\source\repos\task25-06\task25-06\bin\Debug\task25-06.exe
+C:\Users\Orange\source\repos\task25-06\task25-06\bin\Debug\task25-06.pdb
+C:\Users\Orange\source\repos\task25-06\task25-06\obj\Debug\task25-06.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\task25-06\task25-06\obj\Debug\task25-06.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\task25-06\task25-06\obj\Debug\task25-06.exe
+C:\Users\Orange\source\repos\task25-06\task25-06\obj\Debug\task25-06.pdb
