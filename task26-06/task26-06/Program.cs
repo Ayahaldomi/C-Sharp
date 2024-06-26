@@ -24,9 +24,10 @@ namespace task26_06
             //•	Sample numbers: -7
             //•	Output: The sign is -
 
-            //int number = Convert.ToInt32(Console.ReadLine());
-            //string sign = Convert.ToString(Math.Sign(number));
-            //Console.WriteLine(sign[0]);
+            int number = Convert.ToInt32(Console.ReadLine());
+            string sign = number.ToString("+#;-#;0");
+
+            Console.WriteLine(sign[0]);
 
 
 
