@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\task26-06",
+    "\\task26-06\\task26-06"
   ],
-  "SelectedNode": "\\task26-06.sln",
+  "SelectedNode": "\\task26-06\\task26-06\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
