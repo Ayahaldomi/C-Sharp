@@ -39,11 +39,11 @@ namespace task01_07
         }
         public void Start()
         {
-            Console.WriteLine($"Starting the Car !");
+            Console.WriteLine("Starting the Car !");
         }
         public void Stop()
         {
-            Console.WriteLine($"Stoping the Car !");
+            Console.WriteLine("Stoping the Car !");
         }
     }
     class BMW : Car
@@ -63,6 +63,7 @@ namespace task01_07
             newCar.Stop();
 
             BMW bmw = new BMW("BMW", "2021", "Convertible", 45000.0, "Z4", "PAL127", "Silver");
+            
             bmw.Start();
             bmw.Stop();
             
