@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\navbarAndFooter\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\navbarAndFooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|c:\\users\\orange\\source\\repos\\navbarandfooter\\navbarandfooter\\templet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|solutionrelative:navbarandfooter\\templet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|c:\\users\\orange\\desktop\\c-sharp\\navbarandfooter\\navbarandfooter\\templet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|solutionrelative:navbarandfooter\\templet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|c:\\users\\orange\\source\\repos\\navbarandfooter\\navbarandfooter\\templet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|solutionrelative:navbarandfooter\\templet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\navbarAndFooter\\navbarandfooter\\templet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC2663-9E51-4DB6-B78E-D9FFC0A72818}|navbarAndFooter\\navbarAndFooter.csproj|solutionrelative:navbarandfooter\\templet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "templet.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\navbarAndFooter\\navbarAndFooter\\templet.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\navbarAndFooter\\navbarAndFooter\\templet.aspx.cs",
               "RelativeDocumentMoniker": "navbarAndFooter\\templet.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\navbarAndFooter\\navbarAndFooter\\templet.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\navbarAndFooter\\navbarAndFooter\\templet.aspx.cs",
               "RelativeToolTip": "navbarAndFooter\\templet.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAA4AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T09:50:06.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T09:50:06.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "templet.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\navbarAndFooter\\navbarAndFooter\\templet.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\navbarAndFooter\\navbarAndFooter\\templet.aspx",
               "RelativeDocumentMoniker": "navbarAndFooter\\templet.aspx",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\navbarAndFooter\\navbarAndFooter\\templet.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\navbarAndFooter\\navbarAndFooter\\templet.aspx",
               "RelativeToolTip": "navbarAndFooter\\templet.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
