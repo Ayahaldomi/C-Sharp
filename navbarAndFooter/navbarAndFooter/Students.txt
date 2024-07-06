@@ -1,0 +1,10 @@
+94437567,Ahmad Mahmoud,ahmad.mahmoud@example.com,8198497669,24,0784790331,Ahmad Mahmoud is a dedicated student who excels in their studies and participates actively in school activities.,7IGPK-true K45WW-false 8MP97-false COG5X-true
+13772663,Yousef Khalid,yousef.khalid@example.com,8180319389,19,0793890503,Yousef Khalid is a dedicated student who excels in their studies and participates actively in school activities.,K45WW-false 7IGPK-true TQZAV-false
+02404639,Omar Mahmoud,omar.mahmoud@school.edu,9834279670,24,0776342446,Omar Mahmoud is a dedicated student who excels in their studies and participates actively in school activities.,7IGPK-false K45WW-true TQZAV-true
+99887885,Ahmad Hussein,ahmad.hussein@school.edu,7095977748,21,0789912986,Ahmad Hussein is a dedicated student who excels in their studies and participates actively in school activities.,TQZAV-false 7IGPK-true K45WW-true
+93381526,Ahmad Hussein,ahmad.hussein@school.edu,9555022379,23,0796009453,Ahmad Hussein is a dedicated student who excels in their studies and participates actively in school activities.,7IGPK-true
+80682738,Yousef Mahmoud,yousef.mahmoud@school.edu,3284600294,21,0796086616,Yousef Mahmoud is a dedicated student who excels in their studies and participates actively in school activities.,7IGPK-true
+10011983,Omar Hussein,omar.hussein@mail.com,6355786761,25,0797902888,Omar Hussein is a dedicated student who excels in their studies and participates actively in school activities.,COG5X-true
+76707169,Ali Khalid,ali.khalid@example.com,5994113796,18,0789327031,Ali Khalid is a dedicated student who excels in their studies and participates actively in school activities.,K45WW-false 8MP97-true 7IGPK-true
+10717302,Yousef Omar,yousef.omar@example.com,7572928499,22,0774454688,Yousef Omar is a dedicated student who excels in their studies and participates actively in school activities.,TQZAV-true 8MP97-false
+98925265,Omar Ali,omar.ali@mail.com,3525107063,19,0783331999,Omar Ali is a dedicated student who excels in their studies and participates actively in school activities.,TQZAV-true

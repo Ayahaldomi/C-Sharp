@@ -49,7 +49,7 @@
             <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
             <br />
         </div>
-        <div id="help" style="margin: 10px; padding: 10px; border: 1px solid black;" class="auto-style1">
+<%--        <div id="help" style="margin: 10px; padding: 10px; border: 1px solid black;" class="auto-style1">
             <asp:Label ID="Label16" runat="server" Text="Personal Info"></asp:Label><br />
             <asp:Label ID="Label5" runat="server" Text="Name: "></asp:Label>
             <asp:Label ID="Label2" runat="server" Text=" "></asp:Label><br />
@@ -61,7 +61,7 @@
             <asp:Label ID="Label12" runat="server" Text=" "></asp:Label><br />
             <asp:Label ID="Label14" runat="server" Text="Courses: "></asp:Label>
             <asp:Label ID="Label15" runat="server" Text=" "></asp:Label><br />
-        </div>
+        </div>--%>
 
      
         

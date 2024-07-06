@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\webapplication2\\calculater.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\calculater.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|c:\\users\\orange\\desktop\\c-sharp\\task03-07\\webapplication2\\calculater.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\calculater.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\webapplication2\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|c:\\users\\orange\\desktop\\c-sharp\\task03-07\\webapplication2\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\webapplication2\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\webapplication2\\calculater.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\calculater.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\webapplication2\\calculater.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F8AB7-9EBB-428A-8CF3-F099720BF736}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\calculater.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +26,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "calculater.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\WebApplication2\\calculater.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication2\\calculater.aspx.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\WebApplication2\\calculater.aspx.cs",
               "RelativeToolTip": "WebApplication2\\calculater.aspx.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADgvx4AAABXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwB4AAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T16:10:44.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T16:10:44.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "calculater.aspx",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\WebApplication2\\calculater.aspx",
               "RelativeDocumentMoniker": "WebApplication2\\calculater.aspx",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\WebApplication2\\calculater.aspx",
               "RelativeToolTip": "WebApplication2\\calculater.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-03T16:02:39.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T16:02:39.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\WebApplication2\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication2\\WebForm1.aspx.cs",
@@ -64,12 +62,11 @@
               "RelativeToolTip": "WebApplication2\\WebForm1.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T12:56:40.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T12:56:40.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\task03-07\\WebApplication2\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebApplication2\\WebForm1.aspx",
